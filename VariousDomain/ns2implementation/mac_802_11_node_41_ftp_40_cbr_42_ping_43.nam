@@ -1,0 +1,188 @@
+n -t * -s 0  -x 76 -y 1056 -Z 0 -z 20  -v circle -c black
+n -t * -s 1  -x 156 -y 1056 -Z 0 -z 20  -v circle -c black
+n -t * -s 2  -x 224 -y 1058 -Z 0 -z 20  -v circle -c black
+n -t * -s 3  -x 282 -y 1058 -Z 0 -z 20  -v circle -c black
+n -t * -s 4  -x 342 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 5  -x 396 -y 1058 -Z 0 -z 20  -v circle -c black
+n -t * -s 6  -x 470 -y 1058 -Z 0 -z 20  -v circle -c black
+n -t * -s 7  -x 542 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 8  -x 608 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 9  -x 664 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 10  -x 724 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 11  -x 796 -y 1056 -Z 0 -z 20  -v circle -c black
+n -t * -s 12  -x 888 -y 1056 -Z 0 -z 20  -v circle -c black
+n -t * -s 13  -x 950 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 14  -x 1010 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 15  -x 1062 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 16  -x 1128 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 17  -x 1202 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 18  -x 1264 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 19  -x 1330 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 20  -x 1416 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 21  -x 1512 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 22  -x 1594 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 23  -x 1664 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 24  -x 1740 -y 1064 -Z 0 -z 20  -v circle -c black
+n -t * -s 25  -x 1806 -y 1062 -Z 0 -z 20  -v circle -c black
+n -t * -s 26  -x 1904 -y 1060 -Z 0 -z 20  -v circle -c black
+n -t * -s 27  -x 1990 -y 1066 -Z 0 -z 20  -v circle -c black
+n -t * -s 28  -x 2050 -y 1070 -Z 0 -z 20  -v circle -c black
+n -t * -s 29  -x 108 -y 700 -Z 0 -z 20  -v circle -c black
+n -t * -s 30  -x 218 -y 706 -Z 0 -z 20  -v circle -c black
+n -t * -s 31  -x 294 -y 706 -Z 0 -z 20  -v circle -c black
+n -t * -s 32  -x 358 -y 706 -Z 0 -z 20  -v circle -c black
+n -t * -s 33  -x 422 -y 706 -Z 0 -z 20  -v circle -c black
+n -t * -s 34  -x 494 -y 708 -Z 0 -z 20  -v circle -c black
+n -t * -s 35  -x 564 -y 714 -Z 0 -z 20  -v circle -c black
+n -t * -s 36  -x 664 -y 706 -Z 0 -z 20  -v circle -c black
+n -t * -s 37  -x 742 -y 708 -Z 0 -z 20  -v circle -c black
+n -t * -s 38  -x 806 -y 708 -Z 0 -z 20  -v circle -c black
+n -t * -s 39  -x 926 -y 698 -Z 0 -z 20  -v circle -c black
+n -t * -s 40  -x 996 -y 704 -Z 0 -z 20  -v circle -c black
+V -t * -v 1.0a5 -a 0
+W -t * -x 1000 -y 1000
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
++ -t 0.025692262 -s 4 -d -1 -p message -e 90 -c 2 -a 0 -i 0 -k MAC 
+- -t 0.025692262 -s 4 -d -1 -p message -e 90 -c 2 -a 0 -i 0 -k MAC
+h -t 0.025692262 -s 4 -d -1 -p message -e 90 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412443 -s 5 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412463 -s 3 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412656 -s 2 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412689 -s 6 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412883 -s 1 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
+r -t 0.026412929 -s 7 -d -1 -p message -e 32 -c 2 -a 0 -i 0 -k MAC
++ -t 0.062125204 -s 16 -d -1 -p message -e 90 -c 2 -a 0 -i 1 -k MAC 
+- -t 0.062125204 -s 16 -d -1 -p message -e 90 -c 2 -a 0 -i 1 -k MAC
+h -t 0.062125204 -s 16 -d -1 -p message -e 90 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845424 -s 15 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845451 -s 17 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845597 -s 14 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845657 -s 18 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845797 -s 13 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062845877 -s 19 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
+r -t 0.062846004 -s 12 -d -1 -p message -e 32 -c 2 -a 0 -i 1 -k MAC
++ -t 0.104297848 -s 28 -d -1 -p message -e 90 -c 2 -a 0 -i 2 -k MAC 
+- -t 0.104297848 -s 28 -d -1 -p message -e 90 -c 2 -a 0 -i 2 -k MAC
+h -t 0.104297848 -s 28 -d -1 -p message -e 90 -c 2 -a 0 -i 2 -k MAC
+r -t 0.105018049 -s 27 -d -1 -p message -e 32 -c 2 -a 0 -i 2 -k MAC
+r -t 0.105018336 -s 26 -d -1 -p message -e 32 -c 2 -a 0 -i 2 -k MAC
+r -t 0.105018662 -s 25 -d -1 -p message -e 32 -c 2 -a 0 -i 2 -k MAC
++ -t 0.124237153 -s 3 -d -1 -p message -e 90 -c 2 -a 0 -i 3 -k MAC 
+- -t 0.124237153 -s 3 -d -1 -p message -e 90 -c 2 -a 0 -i 3 -k MAC
+h -t 0.124237153 -s 3 -d -1 -p message -e 90 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957346 -s 2 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957354 -s 4 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957533 -s 5 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957573 -s 1 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957780 -s 6 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
+r -t 0.124957840 -s 0 -d -1 -p message -e 32 -c 2 -a 0 -i 3 -k MAC
++ -t 0.179525181 -s 33 -d -1 -p message -e 90 -c 2 -a 0 -i 4 -k MAC 
+- -t 0.179525181 -s 33 -d -1 -p message -e 90 -c 2 -a 0 -i 4 -k MAC
+h -t 0.179525181 -s 33 -d -1 -p message -e 90 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245394 -s 32 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245421 -s 34 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245608 -s 31 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245655 -s 35 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245861 -s 30 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
+r -t 0.180245988 -s 36 -d -1 -p message -e 32 -c 2 -a 0 -i 4 -k MAC
++ -t 0.192008789 -s 26 -d -1 -p message -e 90 -c 2 -a 0 -i 5 -k MAC 
+- -t 0.192008789 -s 26 -d -1 -p message -e 90 -c 2 -a 0 -i 5 -k MAC
+h -t 0.192008789 -s 26 -d -1 -p message -e 90 -c 2 -a 0 -i 5 -k MAC
+r -t 0.192729076 -s 27 -d -1 -p message -e 32 -c 2 -a 0 -i 5 -k MAC
+r -t 0.192729115 -s 25 -d -1 -p message -e 32 -c 2 -a 0 -i 5 -k MAC
+r -t 0.192729276 -s 28 -d -1 -p message -e 32 -c 2 -a 0 -i 5 -k MAC
+r -t 0.192729335 -s 24 -d -1 -p message -e 32 -c 2 -a 0 -i 5 -k MAC
+r -t 0.192729589 -s 23 -d -1 -p message -e 32 -c 2 -a 0 -i 5 -k MAC
++ -t 0.231709986 -s 2 -d -1 -p message -e 90 -c 2 -a 0 -i 6 -k MAC 
+- -t 0.231709986 -s 2 -d -1 -p message -e 90 -c 2 -a 0 -i 6 -k MAC
+h -t 0.231709986 -s 2 -d -1 -p message -e 90 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430180 -s 3 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430213 -s 1 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430380 -s 4 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430480 -s 0 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430560 -s 5 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
+r -t 0.232430806 -s 6 -d -1 -p message -e 32 -c 2 -a 0 -i 6 -k MAC
++ -t 0.250854606 -s 7 -d -1 -p message -e 90 -c 2 -a 0 -i 7 -k MAC 
+- -t 0.250854606 -s 7 -d -1 -p message -e 90 -c 2 -a 0 -i 7 -k MAC
+h -t 0.250854606 -s 7 -d -1 -p message -e 90 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251574826 -s 8 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251574846 -s 6 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251575013 -s 9 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251575093 -s 5 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251575213 -s 10 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
+r -t 0.251575273 -s 4 -d -1 -p message -e 32 -c 2 -a 0 -i 7 -k MAC
++ -t 0.361922922 -s 24 -d -1 -p message -e 90 -c 2 -a 0 -i 8 -k MAC 
+- -t 0.361922922 -s 24 -d -1 -p message -e 90 -c 2 -a 0 -i 8 -k MAC
+h -t 0.361922922 -s 24 -d -1 -p message -e 90 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643142 -s 25 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643175 -s 23 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643408 -s 22 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643468 -s 26 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643682 -s 21 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
+r -t 0.362643755 -s 27 -d -1 -p message -e 32 -c 2 -a 0 -i 8 -k MAC
++ -t 0.374665027 -s 18 -d -1 -p message -e 90 -c 2 -a 0 -i 9 -k MAC 
+- -t 0.374665027 -s 18 -d -1 -p message -e 90 -c 2 -a 0 -i 9 -k MAC
+h -t 0.374665027 -s 18 -d -1 -p message -e 90 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385234 -s 17 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385247 -s 19 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385481 -s 16 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385534 -s 20 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385701 -s 15 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
+r -t 0.375385854 -s 21 -d -1 -p message -e 32 -c 2 -a 0 -i 9 -k MAC
++ -t 0.421279592 -s 22 -d -1 -p message -e 90 -c 2 -a 0 -i 10 -k MAC 
+- -t 0.421279592 -s 22 -d -1 -p message -e 90 -c 2 -a 0 -i 10 -k MAC
+h -t 0.421279592 -s 22 -d -1 -p message -e 90 -c 2 -a 0 -i 10 -k MAC
+r -t 0.421999825 -s 23 -d -1 -p message -e 32 -c 2 -a 0 -i 10 -k MAC
+r -t 0.421999865 -s 21 -d -1 -p message -e 32 -c 2 -a 0 -i 10 -k MAC
+r -t 0.422000079 -s 24 -d -1 -p message -e 32 -c 2 -a 0 -i 10 -k MAC
+r -t 0.422000185 -s 20 -d -1 -p message -e 32 -c 2 -a 0 -i 10 -k MAC
+r -t 0.422000299 -s 25 -d -1 -p message -e 32 -c 2 -a 0 -i 10 -k MAC
++ -t 0.523110307 -s 9 -d -1 -p message -e 90 -c 2 -a 0 -i 11 -k MAC 
+- -t 0.523110307 -s 9 -d -1 -p message -e 90 -c 2 -a 0 -i 11 -k MAC
+h -t 0.523110307 -s 9 -d -1 -p message -e 90 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523830493 -s 8 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523830507 -s 10 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523830713 -s 7 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523830747 -s 11 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523830953 -s 6 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
+r -t 0.523831053 -s 12 -d -1 -p message -e 32 -c 2 -a 0 -i 11 -k MAC
++ -t 0.524368185 -s 13 -d -1 -p message -e 90 -c 2 -a 0 -i 12 -k MAC 
+- -t 0.524368185 -s 13 -d -1 -p message -e 90 -c 2 -a 0 -i 12 -k MAC
+h -t 0.524368185 -s 13 -d -1 -p message -e 90 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088385 -s 14 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088392 -s 12 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088558 -s 15 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088698 -s 11 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088778 -s 16 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
+r -t 0.525088938 -s 10 -d -1 -p message -e 32 -c 2 -a 0 -i 12 -k MAC
++ -t 0.662331080 -s 17 -d -1 -p message -e 90 -c 2 -a 0 -i 13 -k MAC 
+- -t 0.662331080 -s 17 -d -1 -p message -e 90 -c 2 -a 0 -i 13 -k MAC
+h -t 0.662331080 -s 17 -d -1 -p message -e 90 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051287 -s 18 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051327 -s 16 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051507 -s 19 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051547 -s 15 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051720 -s 14 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
+r -t 0.663051793 -s 20 -d -1 -p message -e 32 -c 2 -a 0 -i 13 -k MAC
++ -t 0.675320130 -s 6 -d -1 -p message -e 90 -c 2 -a 0 -i 14 -k MAC 
+- -t 0.675320130 -s 6 -d -1 -p message -e 90 -c 2 -a 0 -i 14 -k MAC
+h -t 0.675320130 -s 6 -d -1 -p message -e 90 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040370 -s 7 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040377 -s 5 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040557 -s 4 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040590 -s 8 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040757 -s 3 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040777 -s 9 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
+r -t 0.676040950 -s 2 -d -1 -p message -e 32 -c 2 -a 0 -i 14 -k MAC
++ -t 0.844904870 -s 32 -d -1 -p message -e 90 -c 2 -a 0 -i 15 -k MAC 
+- -t 0.844904870 -s 32 -d -1 -p message -e 90 -c 2 -a 0 -i 15 -k MAC
+h -t 0.844904870 -s 32 -d -1 -p message -e 90 -c 2 -a 0 -i 15 -k MAC
+r -t 0.845625084 -s 31 -d -1 -p message -e 32 -c 2 -a 0 -i 15 -k MAC
+r -t 0.845625084 -s 33 -d -1 -p message -e 32 -c 2 -a 0 -i 15 -k MAC
+r -t 0.845625324 -s 34 -d -1 -p message -e 32 -c 2 -a 0 -i 15 -k MAC
+r -t 0.845625337 -s 30 -d -1 -p message -e 32 -c 2 -a 0 -i 15 -k MAC
+r -t 0.845625558 -s 35 -d -1 -p message -e 32 -c 2 -a 0 -i 15 -k MAC
++ -t 0.860963938 -s 15 -d -1 -p message -e 90 -c 2 -a 0 -i 16 -k MAC 
+- -t 0.860963938 -s 15 -d -1 -p message -e 90 -c 2 -a 0 -i 16 -k MAC
+h -t 0.860963938 -s 15 -d -1 -p message -e
